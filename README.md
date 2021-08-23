@@ -10,6 +10,7 @@
   Make sure you change the (PATH = "C:\Program Files (x86)\chromedriver.exe") where your chromedriver.exe is. <br>
   Download chrome driver - https://sites.google.com/a/chromium.org/chromedriver/downloads
 </h3>
+
 ## Requirements
   
 ```bash
