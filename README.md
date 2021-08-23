@@ -11,6 +11,7 @@
   Download chrome driver - https://sites.google.com/a/chromium.org/chromedriver/downloads
 <h3>
 ## Requirements
+  
 ```bash
 pip install selenium
 ```
